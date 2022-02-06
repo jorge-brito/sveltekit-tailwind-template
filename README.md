@@ -1,7 +1,7 @@
-# sveltekit-template
+# sveltekit-tailwind-template
 
-This is a template for [SvelteKit](https://kit.svelte.dev)
-with a predefined project structure, scripts and path alias:
+This is a template for [SvelteKit](https://kit.svelte.dev) with [tailwindcss](https://tailwindcss.com) and
+[typescript](https://www.typescriptlang.org/)
 
 ```yaml
 src:
